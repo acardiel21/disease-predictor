@@ -9,9 +9,6 @@ Key Features:
 - **Notes Section:** Physicians can add customized notes, observations, or additional details for each case, supporting comprehensive patient records.
 - **Efficient Workflow:** Designed to save time and improve diagnostic accuracy, the idea would be for this tool to be used for busy clinical settings or telemedicine consultations.
 
-## Motivation 
-As I have developed my abilities in data science and programming, I have worked to more deeply explore the connections between this field and healthcare. Since the COVID-19 pandemic, it has become abundantly clear just how important health surveillance is-- but collecting all of this data doesn't matter if we can't do anything with it. This project represents my personal introduction and exploration to the utilization of health data in analytics and disease prediction.
-
 ## Datasets
 Used the Symptom-Disease Prediction Dataset (SDPD) from Tucker, Jay (2024), “SymbiPredict”, Mendeley Data, V1, doi: 10.17632/dv5z3v2xyd.1 (https://data.mendeley.com/datasets/dv5z3v2xyd/1), which links symptoms to various conditions. 
 
