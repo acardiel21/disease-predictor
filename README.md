@@ -9,8 +9,6 @@ Key Features:
 - **Notes Section:** Physicians can add customized notes, observations, or additional details for each case, supporting comprehensive patient records.
 - **Efficient Workflow:** Designed to save time and improve diagnostic accuracy, the idea would be for this tool to be used for busy clinical settings or telemedicine consultations.
 
-This program empowers healthcare professionals to make informed decisions while reducing the cognitive load of remembering extensive diagnostic criteria and coding systems necessary for insurance purposes or healthcare records systems. 
-
 ## Motivation 
 As I have developed my abilities in data science and programming, I have worked to more deeply explore the connections between this field and healthcare. Since the COVID-19 pandemic, it has become abundantly clear just how important health surveillance is-- but collecting all of this data doesn't matter if we can't do anything with it. This project represents my personal introduction and exploration to the utilization of health data in analytics and disease prediction.
 
