@@ -1,12 +1,11 @@
 # Symptom-Based Diagnosis and ICD-11 Recommendation Tool
 ## Description 
-This program is designed to streamline the diagnostic process by allowing healthcare providers to input patient symptoms and receive recommended diagnoses along with their corresponding ICD-11 codes. The program leverages a symptom-to-diagnosis mapping system, integrating medical databases to ensure accurate and reliable suggestions. 
+This program is designed to streamline the diagnostic process by allowing healthcare providers to input patient symptoms and receive recommended diagnoses along with their corresponding ICD-11 codes.
 
 Key Features:
 - **Symptom Input:** Enter one or multiple symptoms into the interface. 
 - **Diagnosis Recommendations:** The tool provides a ranked (top 3) list of potential diagnoses based on the entered symptoms, paired with their probability based on the model. 
 - **ICD-11 Code Integration:** Each recommended diagnosis is accompanied by its corresponding ICD-11 code for seamless documentation.
-- **Notes Section:** Physicians can add customized notes, observations, or additional details for each case, supporting comprehensive patient records.
 - **Efficient Workflow:** Designed to save time and improve diagnostic accuracy, the idea would be for this tool to be used for busy clinical settings or telemedicine consultations.
 
 ## Datasets
